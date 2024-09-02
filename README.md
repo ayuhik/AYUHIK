@@ -12,4 +12,6 @@
 # 𝙎𝙩𝙖𝙩𝙞𝙨𝙩𝙞𝙘📄
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayuhik&show_icons=true&theme=radical)
 
+[![Leetcode Stats](https://leetcard.jacoblin.cool/ayuhik)](https://leetcode.com/ayuhik)
+
 [![codewars](https://www.codewars.com/users/ayuhik/badges/large)](https://www.codewars.com/users/ayuhik)   
