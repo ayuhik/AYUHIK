@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @AYUHIK264
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 𝙃𝙚𝙡𝙡𝙤 𝙒𝙤𝙧𝙡𝙙!👋
+[![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/cybernet1ka)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayuhik)
+[![X](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=x)](https://x.com/ayuhik264)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://hackerrank.com/profile/@ayuhik)  
 
-<!---
-AYUHIK264/AYUHIK264 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 𝙄'𝙫𝙚 𝙗𝙚𝙚𝙣 𝙡𝙚𝙖𝙧𝙣𝙞𝙣𝙜 𝙥𝙮𝙩𝙝𝙤𝙣 𝙛𝙤𝙧 𝟯 𝙢𝙤𝙣𝙩𝙝𝙨, 𝙖𝙣𝙙 𝙄'𝙢 𝙘𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙞𝙣 𝙖𝙘𝙩𝙞𝙫𝙚 𝙡𝙚𝙖𝙧𝙣𝙞𝙣𝙜.
+- learn chines and english
+- 𝙡𝙞𝙠𝙚 𝙩𝙤 𝙨𝙡𝙚𝙚𝙥💤
+- 𝙡𝙞𝙠𝙚 𝙩𝙤 𝙚𝙖𝙩🍔
+
+# 𝙎𝙩𝙖𝙩𝙞𝙨𝙩𝙞𝙘📄
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayuhik&show_icons=true&theme=radical)
+
+[![codewars](https://www.codewars.com/users/ayuhik/badges/large)](https://www.codewars.com/users/ayuhik)   
