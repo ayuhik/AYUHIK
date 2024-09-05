@@ -1,5 +1,4 @@
 # 𝙃𝙚𝙡𝙡𝙤 𝙒𝙤𝙧𝙡𝙙!👋
-[![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/cybernet1ka)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayuhik)
 [![X](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=x)](https://x.com/ayuhik264)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://hackerrank.com/profile/ayuhik)  
